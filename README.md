@@ -32,10 +32,8 @@ Este breve script en Python visualiza una distribución gaussiana y calcula la i
 Este script en Python realiza la integración numérica de una función gaussiana e imprime los resultados para varios límites superiores.
 
 ## Dependencias
-- `numpy`
 - `sympy`
 - `scipy`
-- `matplotlib`
 
 ## Uso
 1. Ejecuta el script.
